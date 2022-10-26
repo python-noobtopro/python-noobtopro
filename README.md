@@ -1,5 +1,5 @@
 - 👋 Hi, I am Rupesh Ranjan
-- 👀 I’m currently doing some cool Data Visualization with Matplotlib
+- 👀 I’m currently working as a Software Engineer
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking for some really good free resources available on ML and AI
 - 📫 Reach me at rupesh19ranjan@gmail.com
